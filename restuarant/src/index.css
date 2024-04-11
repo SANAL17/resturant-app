@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital@1&family=Kalnia:wght@300&family=Libre+Baskerville:ital@1&family=Playfair+Display&family=Roboto:wght@900&display=swap');
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Kalnia', serif;
+}

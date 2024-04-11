@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Kaushan+Script&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+.text{
+
+    font-family: "Kaushan Script", cursive;
+}
+@media (max-width: 860px){
+   .b-text{
+
+    opacity: 0;
+
+    }
+
+}
